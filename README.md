@@ -11,4 +11,4 @@
 - User authentication
 - Image insertion
 - Procedures : Insert, Update
-- Triggers : Delete
+- Trigger : Delete
