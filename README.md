@@ -1,7 +1,7 @@
 # JAVA PROJECT (JProject)
 - Swing (for UI)
 - JDBC (for database connection)
-- Role based permission (Using simmple Session class)
+- Role based permission (Using simple Session class)
   - Admin : Add, Edit, Delete, View Courses
   - USer : View Courses
 - Form validation
